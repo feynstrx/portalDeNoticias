@@ -1,0 +1,37 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #594d3b; /* Tom inspirado na capa do álbum */
+    color: #e3d5c5; /* Um bege suave para contraste */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #40382a;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #d4c4b4;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #796c5f;
+    border-radius: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 2px solid #d4c4b4;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #40382a;
+}
